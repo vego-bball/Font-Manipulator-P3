@@ -1,0 +1,30 @@
+.note
+{
+    color: cornsilk;
+    font-size: 16px;
+}
+.copy_right_footer
+{
+    color:cyan;
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+}
+.heading
+{
+    color: darkturquoise;
+    font-size: 32px;
+    box-shadow: 5px 5px 5px lightskyblue;
+    margin: 0px;
+    width: 100%;
+    border-radius: 30px;
+}
+canvas
+{
+    border: 5px solid linen;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px lightcoral;
+}
